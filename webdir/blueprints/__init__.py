@@ -1,0 +1,11 @@
+from .user import bp as user_bp
+from .google import google_bp as g_bp
+from .product import bp as product_bp
+from .search import bp as search_bp
+from .recommend import bp as recommend_bp
+from .staffPortal import bp as staff_bp
+from .order import bp as order_bp
+from .homepage import bp as homepage_bp
+from .comment import bp as comment_bp
+from .profile import bp as profile_bp
+from .third import bp as third_bp
